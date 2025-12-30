@@ -65,8 +65,8 @@ sudo apt install python3 python3-gi gir1.2-gtk-3.0 libnotify-bin cron
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/getneerajk/water-reminder.git
+cd water-reminder
 ```
 
 2. Run the application:
