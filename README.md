@@ -154,4 +154,4 @@ MIT License
 
 ## Author
 
-Created for personal and lightweight reminder management on Linux deskto
+Created for personal and lightweight reminder management on Linux desktop
